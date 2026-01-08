@@ -1,0 +1,1 @@
+alert("Hello,  Saya (Nama) sedang belajar Javascript Eksternal!");
